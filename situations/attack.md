@@ -1,4 +1,4 @@
-# BAD LUCK
+## BAD LUCK
 
 You try attacking the killer and he wins and stabs you, leaving you to bleed to death :()
 
