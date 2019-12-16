@@ -1,3 +1,5 @@
+## What was that?
+
 You hear a noise and get curious 
 
 [You see a door](Door.md)  

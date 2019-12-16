@@ -1,2 +1,3 @@
+### BAD LUCK
 YOU GOT CAUGHT BY THE KILLER AND GOT KILLED  
 [Try again](Start.md)
