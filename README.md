@@ -4,4 +4,4 @@
 
 The purpose of this project was to use our knowledge to create a fun adventure project for others to use
 
-[start] (../start.md)
+[start] (start/start.md)
