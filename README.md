@@ -8,4 +8,4 @@ Click here to [Start adventure](situations/Start.md)
 
 Click here to see our [Diagram](https://docs.google.com/drawings/d/1iRVqieBT7mSBUGexBANC4sIKbhMDbyS_XpZhan-dnC4/edit)
 
-Made by Giselle and denia
+Made by [Giselle](https://github.com/Gisellet6387) and denia
