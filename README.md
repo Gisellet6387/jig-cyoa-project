@@ -6,6 +6,6 @@ The purpose of this project was to use our knowledge to create a fun adventure p
 
 Click here to [Start adventure](situations/Start.md)
 
-Click here to see our [Diagram](http://https://docs.google.com/drawings/d/1iRVqieBT7mSBUGexBANC4sIKbhMDbyS_XpZhan-dnC4/edit)
+Click here to see our [Diagram](https://docs.google.com/drawings/d/1iRVqieBT7mSBUGexBANC4sIKbhMDbyS_XpZhan-dnC4/edit)
 
 Made by Giselle and denia
