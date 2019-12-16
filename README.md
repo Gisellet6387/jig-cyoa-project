@@ -4,4 +4,4 @@
 
 The purpose of this project was to use our knowledge to create a fun adventure project for others to use
 
-[Start adventure](Start.md)
+[Start adventure](situations/Start.md)
