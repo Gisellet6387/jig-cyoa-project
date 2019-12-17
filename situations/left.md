@@ -1,3 +1,7 @@
 ### BAD LUCK
-YOU GOT CAUGHT BY THE KILLER AND GOT KILLED  
+
+You trip over a corpse and the killer catches you
+
+You died
+
 [Try again](Start.md)

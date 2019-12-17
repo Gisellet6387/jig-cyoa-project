@@ -1,3 +1,5 @@
 ## YOU LIVED 
-There was a hidden hole in the wall with a rope, you go down the rope and escape   
+
+There was a rope leading to an exit through which you escaped through    
+
 [Back to the beginning](Start.md)

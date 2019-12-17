@@ -1,7 +1,5 @@
-## It worked 
+## It didn't work
 
-the killer believed you were dead and leaves you outside giving you the chance to escape and call the cops :)
+The killer notices your breathing and stabs you
 
-You lived 
-
-[Back to start](Start.md)
+[Better luck next time](Start.md)

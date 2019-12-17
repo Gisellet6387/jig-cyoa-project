@@ -1,5 +1,7 @@
-## YOU JUMPED OUT
+## ITS UNLOCKED!!
 
-You ended up in the hospital and told the cops where to find the killer and they arrested him :)
+You jump out and twist your ankle, you keep running and faint but the police spots you and drives you to the hospital
 
-[You did it :) ](Start.md)
+You are now safe
+
+[Start over](Start.md)

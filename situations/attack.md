@@ -1,5 +1,5 @@
-## BAD LUCK
+## YAY
 
-You try attacking the killer and he wins and stabs you, leaving you to bleed to death :()
+You try attacking the killer and hit him hard enough to have time to run away and call the cops 
 
-[Better luck next time](Start.md)
+[You did it!](Start.md)
